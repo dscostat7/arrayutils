@@ -1,6 +1,8 @@
 <?php declare(strict_types=1); //Esta declaração faz com que os tipos dos argumentos e retornos de função sejam estritos, sem type juggling.
 
-require_once 'ArrayUtils.php';
+namespace ActionsBank;
+
+require_once 'autoload.php';
 
 $correntistasECompras = [
     "Giovani",

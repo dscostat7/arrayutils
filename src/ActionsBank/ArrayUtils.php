@@ -1,6 +1,6 @@
 <?php declare(strict_types=1); //Esta declaração faz com que os tipos dos argumentos e retornos de função sejam estritos, sem type juggling.
 
-
+namespace ActionsBank;
 
 class ArrayUtils
 {
